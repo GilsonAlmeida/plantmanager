@@ -1,35 +1,33 @@
 # plantmanager
 Aplicativo para estudos usando React Native com Expo
 
-Algumas libs usadas no projeto:
+<p>Algumas libs usadas no projeto:</p>
 
 https://reactnavigation.org/docs/getting-started
 
-yarn add @react-navigation/native
-expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
-yarn add @react-navigation/stack
+<p>yarn add @react-navigation/native</p>
+<p>expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
+yarn add @react-navigation/stack </p>
 
-yarn add react-native-iphone-x-helper
+<p>yarn add react-native-iphone-x-helper</p>
+<p>yardn add axios</p>
 
-yardn add axios
+<p>//json-server serve um endPoint de um arquivo json local
+npm install -g json-server</p>
 
-//json-server serve um endPoint de um arquivo json local
-npm install -g json-server
+<p>//para trabalhar com imagens svg
+expo install react-native-svg </p>
 
-//para trabalhar com imagens svg
-expo install react-native-svg
-
-//site para adicionar loading
+<p>//site para adicionar loading
 https://lottiefiles.com/animation/react
-expo install lottie-react-native
+expo install lottie-react-native</p>
 
-expo install @react-native-async-storage/async-storage
+<p>expo install @react-native-async-storage/async-storage</p>
+<p>expo install @react-native-community/datetimepicker</p>
 
-expo install @react-native-community/datetimepicker
-
-https://date-fns.org/
+<p>https://date-fns.org/
 yarn add date-fns
-yarn add @react-navigation/bottom-tabs
+yarn add @react-navigation/bottom-tabs</p>
 
 
-expo install expo-notifications
+<p>expo install expo-notifications</p>
